@@ -3,8 +3,15 @@
 💻 Systems Engineering Student | 🚀 Founder & CEO of LD Innovations | 🇬🇹 Guatemala
 </h3>
 
+<p align="center">
+  <a href="https://github.com/Angelykcoder">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+of+LD+Innovations;Systems+Engineering+Student;Full+Stack+Developer;Python+Automation+Enthusiast;Building+SaaS+and+B2B+Solutions;Transforming+Ideas+Into+Intelligent+Solutions" />
+  </a>
+</p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=angelykcoderO&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
@@ -146,3 +153,51 @@ Digital products designed to improve productivity and business operations.
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+⚡ "Transforming ideas into intelligent solutions through technology."
+</h3>
+
+<h4 align="center">
+🚀 LD Innovations – Soluciones Inteligentes
+</h4>
