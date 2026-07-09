@@ -3,11 +3,7 @@
 💻 Systems Engineering Student | 🚀 Founder & CEO of LD Innovations | 🇬🇹 Guatemala
 </h3>
 
-<p align="center">
-  <a href="https://github.com/angelykcoder">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+of+LD+Innovations;Systems+Engineering+Student;Full+Stack+Developer;Python+Automation+Enthusiast;Building+SaaS+and+B2B+Solutions;Transforming+Ideas+Into+Intelligent+Solutions" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
