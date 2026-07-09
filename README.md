@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/angelykcoder">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+of+LD+Innovations;Systems+Engineering+Student;Full+Stack+Developer;Python+Automation+Enthusiast;Building+SaaS+and+B2B+Solutions;Transforming+Ideas+Into+Intelligent+Solutions" />
   </a>
 </p>
@@ -152,5 +152,4 @@ Scripts and tools that automate repetitive business processes.
 Digital products designed to improve productivity and business operations.
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
 
