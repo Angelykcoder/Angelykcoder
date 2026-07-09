@@ -5,9 +5,6 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
 
 ---
 
