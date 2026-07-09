@@ -23,7 +23,7 @@
 - 🌐 Interested in Web Development, SaaS and B2B Solutions
 - 🤖 Building intelligent solutions for businesses through technology
 - 🌱 Currently learning more about scalable architectures and cloud technologies
-- 📫 Reach me at: **your_email@example.com**
+- 📫 Reach me at: **dfloresg11@gmiumg.edu.gt**
 
 ---
 
