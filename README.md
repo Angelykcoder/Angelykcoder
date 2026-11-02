@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Flores</h1>
 <h3 align="center">
-💻 Systems Engineering Student | 🚀 Founder & CEO of LD Innovations | 🇬🇹 Guatemala
+💻 Systems Engineering Student | 🚀 Founder & CEO of WALED Innovations | 🇬🇹 Guatemala
 </h3>
 
 <p align="center">
