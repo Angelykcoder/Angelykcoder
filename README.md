@@ -15,7 +15,9 @@
 
 </div>
 
-Systems Engineering student at Universidad Mariano Gálvez and founder of **WALED Innovations**. I'm building the platform behind **Profesores Capacitados**, a B2B program that private schools buy to train, evaluate and track their teachers.
+Backend developer · Systems Engineering student at Universidad Mariano Gálvez · Guatemala
+
+Founder of **WALED Innovations**. I'm building the platform behind **Profesores Capacitados**, a B2B program that private schools buy to train, evaluate and track their teachers.
 
 Most of my work this year has been in **Java**: object-oriented design, REST APIs and the database layer underneath them. I also write PHP, because the LMS I operate runs on Moodle.
 
@@ -25,37 +27,15 @@ Most of my work this year has been in **Java**: object-oriented design, REST API
 
 A self-hosted Moodle deployment sold to schools as an institutional package. Each school gets its teachers enrolled in a cohort, their progress and evaluations tracked, and a report at the end of the program.
 
-<details>
-<summary><b>🖥️ Server</b> — Linux, web server, PHP runtime, backups</summary>
-<br>
-
-- Linux server setup and administration
-- Web server and PHP runtime configuration, SSL, cron jobs
-- Scheduled backups and restore procedures
-
-</details>
+| Area | What I own |
+|---|---|
+| 🖥️ **Server** | Linux setup and administration: web server, PHP runtime, cron, SSL, backups |
+| 🎓 **LMS** | Courses, cohorts per institution, roles and permissions, completion tracking, gradebook |
+| 🗄️ **Database** | MySQL / PostgreSQL administration, backup and restore, reporting queries |
+| 💻 **Code** | PHP customizations where configuration isn't enough |
 
 <details>
-<summary><b>🎓 LMS</b> — Moodle configured per institution</summary>
-<br>
-
-- Courses, cohorts per school, roles and permissions
-- Completion tracking and gradebook
-- PHP customizations where configuration isn't enough
-
-</details>
-
-<details>
-<summary><b>🗄️ Database</b> — MySQL / PostgreSQL</summary>
-<br>
-
-- Administration, backup and restore
-- Reporting queries for progress per institution and per teacher
-
-</details>
-
-<details>
-<summary><b>🧭 Roadmap</b></summary>
+<summary><b>🧭 Roadmap</b> — click to expand</summary>
 <br>
 
 - Per-institution reporting dashboard
@@ -67,24 +47,14 @@ A self-hosted Moodle deployment sold to schools as an institutional package. Eac
 
 ## 🛠️ Stack
 
-**Backend & languages**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,php,python,cs&perline=8" /></a>
-
-**Databases**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres&perline=8" /></a>
-
-**Servers & platforms**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu&perline=8" /></a>
-<img height="48" src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" />
-
-**Tools**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,netbeans,vscode,figma&perline=8" /></a>
-
-<sub>Also: REST API design · object-oriented design and patterns · Java Swing + FlatLaf · relational modeling</sub>
+| Area | Technologies | |
+|---|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,php,python,cs" height="40" /> | Java (primary), PHP, Python, C# |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java" height="40" /> | REST APIs, object-oriented design, design patterns |
+| **Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" /> | MySQL, PostgreSQL, relational modeling, SQL |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=linux,ubuntu" height="40" /> <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" height="28" /> | Linux servers, Moodle LMS administration |
+| **Desktop** | <img src="https://img.shields.io/badge/Swing%20%2B%20FlatLaf-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" height="28" /> | Java Swing, FlatLaf |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,netbeans,vscode,figma" height="40" /> | Git, GitHub, NetBeans, VS Code, Figma |
 
 ---
 
@@ -124,4 +94,3 @@ A self-hosted Moodle deployment sold to schools as an institutional package. Eac
 -->
 
 </div>
-
