@@ -18,7 +18,7 @@
 # 🚀 About Me
 
 - 🎓 Systems Engineering Student at Universidad Mariano Gálvez de Guatemala
-- 🚀 Founder & CEO of **LD Innovations – Soluciones Inteligentes**
+- 🚀 Founder & CEO of **WALED Innovations – Soluciones Inteligentes**
 - 💡 Passionate about software development, automation and digital transformation
 - 🌐 Interested in Web Development, SaaS and B2B Solutions
 - 🤖 Building intelligent solutions for businesses through technology
