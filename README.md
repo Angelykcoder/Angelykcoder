@@ -1,156 +1,59 @@
-<h1 align="center">Hi 👋, I'm Diego Flores</h1>
-<h3 align="center">
-💻 Systems Engineering Student | 🚀 Founder & CEO of WALED Innovations | 🇬🇹 Guatemala
-</h3>
+# Diego Flores
 
-<p align="center">
-  <a href="https://github.com/Angelykcoder">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+of+LD+Innovations;Systems+Engineering+Student;Full+Stack+Developer;Python+Automation+Enthusiast;Building+SaaS+and+B2B+Solutions;Transforming+Ideas+Into+Intelligent+Solutions" />
-  </a>
+Backend developer · Systems Engineering student at Universidad Mariano Gálvez · Guatemala
+
+Founder of **WALED Innovations**. I'm building the platform behind **Profesores Capacitados**, a B2B program that private schools buy to train, evaluate and track their teachers.
+
+Most of my work this year has been in **Java**: object-oriented design, REST APIs and the database layer underneath them. I also write PHP, because the LMS I operate runs on Moodle.
+
+---
+
+### Now — Profesores Capacitados (LMS platform)
+
+A self-hosted Moodle deployment sold to schools as an institutional package. Each school gets its teachers enrolled in a cohort, their progress and evaluations tracked, and a report at the end of the program.
+
+What I own end to end:
+
+- **Server** — Linux setup and administration: web server, PHP runtime, cron, SSL, backups
+- **LMS** — courses, cohorts per institution, roles and permissions, completion tracking, gradebook
+- **Database** — MySQL / PostgreSQL administration, backup and restore, reporting queries
+- **Code** — PHP customizations where configuration isn't enough
+
+Next on the roadmap: per-institution reporting dashboard and verifiable completion records (unique ID + public verification page).
+
+---
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,python,cs,mysql,postgres,linux,git&perline=8" alt="Java, PHP, Python, C#, MySQL, PostgreSQL, Linux, Git" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angelykcoderO&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+| | |
+|---|---|
+| **Languages** | Java (primary), PHP, Python, C# |
+| **Backend** | REST APIs, object-oriented design, design patterns |
+| **Data** | MySQL, PostgreSQL, relational modeling, SQL |
+| **Infrastructure** | Linux servers, Moodle LMS administration |
+| **Desktop** | Java Swing, FlatLaf |
+| **Tooling** | Git, GitHub, NetBeans, VS Code, Figma |
 
 ---
 
-# 🚀 About Me
+### Selected work
 
-- 🎓 Systems Engineering Student at Universidad Mariano Gálvez de Guatemala
-- 🚀 Founder & CEO of **WALED Innovations – Soluciones Inteligentes**
-- 💡 Passionate about software development, automation and digital transformation
-- 🌐 Interested in Web Development, SaaS and B2B Solutions
-- 🤖 Building intelligent solutions for businesses through technology
-- 🌱 Currently learning more about scalable architectures and cloud technologies
-
-
----
-
-# 🚧 Currently Building
-
-- 🤖 Business Automations with Python
-- 🌐 Modern Web Applications
-- ☁️ SaaS Products
-- 🏢 B2B Digital Solutions
-- ⚡ Intelligent Software Solutions
+| Project | What it is | Built with |
+|---|---|---|
+| **Profesores Capacitados** | Multi-institution LMS for teacher training (in production) | Moodle, PHP, MySQL/PostgreSQL, Linux |
+| **Condominio Vista Verde** | Desktop administration system for a residential complex | Java, Swing, FlatLaf, XML persistence |
+| **Appointment Scheduling System** | Web app for booking and managing appointments | PHP, MySQL |
+| **Business automations** | Scripts that replace repetitive manual processes | Python |
 
 ---
 
-# 💻 Tech Stack
+Spanish (native) · English (advanced, TOEFL)
 
-## 🌐 Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
-</p>
-
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-
----
-
-## 🖥️ Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs" />
-</p>
-
-- Java
-- Python
-- C#
-
----
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-- MySQL
-- PostgreSQL
-- phpMyAdmin
-- Database Design and Management
-
----
-
-## ⚙️ Frameworks & Technologies
-
-- Java Swing
-- FlatLaf
-- REST APIs
-- Python Automation
-- SaaS Development
-- B2B Solutions
-- Object-Oriented Programming (OOP)
-- Desktop Application Development
-- Full Stack Web Development
-
----
-
-## 🛠️ IDEs & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,sublime,netbeans,figma,git,github,linux,windows" />
-</p>
-
-- Visual Studio Code
-- Sublime Text
-- Apache NetBeans
-- Figma
-- Claude Code
-- Git & GitHub
-- Linux
-- Windows 11 and Previous Versions
-- Microsoft 365
-- Google Workspace
-
----
-
-# 🧠 Skills
-
-- Version Control with Git & GitHub
-- Prompt Engineering
-- Vibe Coding
-- Problem Solving
-- Algorithm Design
-- Software Architecture Fundamentals
-- Database Administration
-- Business Process Automation
-- Software Development Lifecycle
-- UI/UX Prototyping with Figma
-- Collaboration and Documentation Tools
-
----
-
-# 🌎 Languages
-
-🇬🇹 **Spanish:** Native
-
-🇺🇸 **English:** Advanced (TOEFL)
-
----
-
-# 🚀 Featured Projects
-
-### 🏢 LD Innovations Website
-Corporate website and portfolio for LD Innovations.
-
-### 📅 Appointment Scheduling System
-Web application for appointment management using databases and modern web technologies.
-
-### 🏘️ Condominio Vista Verde
-Desktop administration system developed with Java Swing and XML persistence.
-
-### 🤖 Python Automations
-Scripts and tools that automate repetitive business processes.
-
-### ☁️ SaaS & B2B Solutions
-Digital products designed to improve productivity and business operations.
-
----
-
+<!-- Add your contact links here, e.g.:
+[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:you@domain.com) · [waled.com](https://...)
+-->
 
